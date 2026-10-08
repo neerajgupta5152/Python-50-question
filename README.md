@@ -8,6 +8,6 @@ This repository contains my 50 Python coding interview questions solved with cle
 
 ### Progress: 2/50 Done ✅
 - [x] Q01 - Reverse String using For Loop
-- [x] Q01 - Power Function
+- [x] Q02 - Power Function
 
 **Language:** Python | **College:** BIET Lucknow
